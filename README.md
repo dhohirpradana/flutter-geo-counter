@@ -1,4 +1,4 @@
-# chat_app
+# flutter_geo_counter
 
 A new Flutter project.
 
