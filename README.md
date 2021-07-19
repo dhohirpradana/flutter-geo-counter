@@ -1,6 +1,10 @@
 # flutter_geo_counter
 
-A new Flutter project.
+Gmaps, geolocator
+
+![alt text](https://github.com/dhohirpradana/flutter-geo-counter/blob/master/Screenshot_20210719-102338925.jpg?raw=true)
+![alt text](https://github.com/dhohirpradana/flutter-geo-counter/blob/master/Screenshot_20210719-102329040.jpg?raw=true)
+
 
 ## Getting Started
 
